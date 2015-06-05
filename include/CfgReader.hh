@@ -10,6 +10,9 @@
              
   v0.1 AFan 2013-04-21
 
+	YMeng 2014-03-15
+	Add new functions to process the cfg files
+
  */
 
 #ifndef CfgReader_H

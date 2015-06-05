@@ -3,7 +3,7 @@
   Defines the Integral class module.
   Integrates a waveform, scaling the integral by spe_mean
 
-  v0.1 AFan 2013-08-17
+  v0.1 YMeng
 
  */
 

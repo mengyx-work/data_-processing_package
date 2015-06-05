@@ -6,6 +6,10 @@
   v0.1 AFan  2013-08-17
   
 
+	YMeng modified the index_offset, add the new gains for different
+	PMTs.
+	
+	2014-03-14
  */
 
 #ifndef Converter_hh

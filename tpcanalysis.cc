@@ -5,14 +5,6 @@
   1. Event by event processing, including baseline finding, pulse finding, etc
   2. Apply cuts and generate histograms and average waveforms
   
-  Compile with Makefile
-  
-  v0.1 AFan 2013-04-21
-
-  v0.2 AFan 2014-02-07
-  - Multiple files implemented.
-  - 
-
 */
 
 

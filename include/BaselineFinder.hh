@@ -4,7 +4,7 @@
   Finds the baseline on some user defined region, computes
   a baseline-subtracted and inverted waveform.
   
-  v0.1 AFan 2013-08-17
+  v0.1 YMeng
 
  */
 

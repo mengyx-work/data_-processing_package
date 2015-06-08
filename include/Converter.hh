@@ -3,9 +3,6 @@
   Defines the Converter class module.
   Read a raw DAQ file, fill identifier info in EventData object
 
-  v0.1 AFan  2013-08-17
-  
-
 	YMeng modified the index_offset, add the new gains for different
 	PMTs.
 	

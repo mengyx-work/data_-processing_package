@@ -4,8 +4,7 @@
   Use simple threshold value to determine if sample is
   to be zero-suppressed.
 
-  v0.1 AFan 2014-02-03
-
+	YMENG 04-44-2014
  */
 
 #ifndef ZeroSuppressor_hh

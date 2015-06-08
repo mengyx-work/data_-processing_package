@@ -2,12 +2,11 @@
 
   Create the sum channel.
 
-  v0.1 AFan 2014-02-03
-
   NOTE: currently just blind sum; will need to:
   - account for channel-to-channel SPE means
   - account for channel-to-channel timing alignment
-
+	
+	YMENG 05-23-2014
  */
 
 

@@ -2,8 +2,6 @@
   Defines the ProcessedPlotter class to plot rwa waveforms
   and some processed results for each channel
 
-  v0.1 AFan 2013-08-17
-
   borrowed mostly from genroot
 
 

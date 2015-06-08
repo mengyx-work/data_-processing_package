@@ -3,8 +3,6 @@
   Defines the PulseFinder class module.
   Searches through the sum channel waveform to find pulses.
 
-  v0.1 AFan 2014-02-03
-
  */
 
 
